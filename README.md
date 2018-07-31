@@ -23,3 +23,4 @@ Run `./ft_gkrellm`.
 
 ## Screenshots
 <img src="https://github.com/conanwu777/system_monitor/blob/master/1.png">
+<img src="https://github.com/conanwu777/system_monitor/blob/master/2.png">
